@@ -10,6 +10,8 @@ Es proyecto seprara las páginas de un archivo pdf y también puede unir las pá
 
 ```bash
 git clone https://github.com/JossueDaniel/gestor_pdf.git
+```
+```bash
 cd gestor_pdf
 ```
 
